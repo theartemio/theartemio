@@ -1,4 +1,9 @@
-## Hi, my name is Artemii
+Hi, my name is Artemii
+
+### Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ThisIsArtemio) 
+[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:artemii.tretiakov@gmail.com)
 
 
 
