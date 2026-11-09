@@ -1,27 +1,43 @@
-## Hi, my name is Artemii
+# Hi, I'm Artemii
+
+I'm a **Data Engineer** interested in building reliable data pipelines, reusable integration components and tooling that makes data work easier to develop and maintain.
+
+## About me
+
+My professional experience is mainly focused on Python- and SQL-based data engineering: integrating data from different sources, orchestrating ETL/ELT workflows, developing transformations and automating repetitive engineering tasks.
+
+I particularly enjoy working on the parts that sit beyond an individual pipeline: configuration-driven architectures, reusable components, metadata-driven automation and improving the performance and maintainability of data workflows.
+
+Outside of work, I run a small **homelab** built around Proxmox and TrueNAS, and maintain a number of self-hosted services. I enjoy learning how the underlying infrastructure works rather than treating it as a black box.
+
+Before moving into Data Engineering, I worked with bioinformatics, NGS workflows and specialised scientific software. That experience taught me to be comfortable with unfamiliar systems, unusual data formats and debugging problems across software and infrastructure boundaries.
+
+## Tech
+
+### Data engineering
+
+- **Languages:** Python, SQL
+- **Orchestration:** Apache Airflow; Dagster in personal projects
+- **Databases:** PostgreSQL, Greenplum, ClickHouse
+- **Data processing:** Pandas
+- **Integration:** Kafka, S3, SFTP, XML, JSON
+- **Tools:** Git, GitLab
+
+### Homelab & self-hosting
+
+- Proxmox
+- TrueNAS
+- Self-hosted services and network storage
+
+## Current interests
+
+- Reusable and configuration-driven data pipeline architectures
+- Metadata-driven automation and data modelling
+- Data quality, observability and reliable ingestion
+- Self-hosted infrastructure and homelab projects
+- Music metadata and personal media-library management
 
 ## Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ThisIsArtemio) 
-
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemii.tretiakov@gmail.com)
-
-## Skills
-
-### Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-### Frameworks & tools
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
+- Telegram: [@ThisIsArtemio](https://t.me/ThisIsArtemio)
+- Email: [artemii.tretiakov@gmail.com](mailto:artemii.tretiakov@gmail.com)
